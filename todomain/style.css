@@ -1,0 +1,75 @@
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container .form{
+    background: rgba(66, 33, 73, 0.795);
+    padding: 30px 35px;
+    border-radius: 5px;
+}
+.container .form form .form-control{
+    height: 40px;
+    font-size: 15px;
+}
+.container .form form .forget-pass{
+    margin: -15px 0 15px 0;
+}
+.container .form form .forget-pass a{
+   font-size: 15px;
+}
+.container .form form .button:hover{
+    background: #989ee0;
+}
+.container .form form .link{
+    padding: 5px 0;
+}
+.container .form form .link a{
+    color: #d3d3d3dc;
+}
+.container .login-form form p{
+    font-size: 14px;
+}
+.container .row .alert{
+    font-size: 14px;
+}
+#login-h2{
+    color: blanchedalmond;
+}
+#signup-h2{
+    color: rgba(206, 201, 195, 0.87);
+}
+
+nav{
+    padding-left: 100px!important;
+    padding-right: 100px!important;
+    background: #581845;
+    font-family: 'Consolas', sans-serif;
+} 
+nav a.navbar-brand{
+    color: rgb(211, 199, 28);
+    font-size: 30px!important;
+    font-weight: 500;
+}
+button a{   
+    color: #df0000;
+    font-weight: 500;
+}
+button a:hover{
+    text-decoration: none;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-weight: 600;
+}
+a .signup-time{
+    color: cornsilk;
+}

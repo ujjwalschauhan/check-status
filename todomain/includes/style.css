@@ -1,0 +1,36 @@
+html,body{
+	margin: 0px;
+	padding: 0px;;
+}
+.edit-container{
+	border-radius: 10px;
+	margin-top: 25px;
+	padding-bottom: 15px;
+	background-color: #EDEBD4;
+
+}
+.table-striped > tbody > tr:nth-child(odd) > td,
+.table-striped > tbody > tr:nth-child(even) > th{
+	background-color: #EDEBD4;
+}
+
+#createtaskHeader{
+	color: antiquewhite;
+}
+
+.div-wrapper {
+    height: 200px;
+    margin-top: 40px;
+    border: 2px dashed #ddd;
+    border-radius: 8px;
+}
+ 
+.div-to-align {
+    width: 75%;
+    padding: 40px 20px;
+ 
+    /* .... */
+}
+a .signup-time{
+    color: cornsilk;
+}
